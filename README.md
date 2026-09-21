@@ -1,8 +1,7 @@
 # PPM
 #EXTM3U  url-tvg="https://www.open-epg.com/generate/4faKcAGZ25.xml.gz"
 
-#EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 🇦🇷 
-#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1 tvg-id="LaNacion.uy" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 🇦🇷 
@@ -88,7 +87,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/1353.ts
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/El_Canal_de_la_Musica_2015_Icon.svg/revision/latest/scale-to-width-down/200?cb=20230914124431" group-title="Música",CM El Canal de la Música 🇦🇷 
 http://190.7.19.197:232/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-id="CineCanal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal 🇦🇷 
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal 🇦🇷 
 http://181.209.38.115:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax 🇦🇷 
@@ -249,7 +248,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/1349.ts
 http://latinostream.xyz/live/L20260704/L20260704/769685.ts
 
  
-#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales",National Geographic 🇦🇷
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales",National Geographic 🇦🇷
 http://go.iptvhn.net:25461/live/5794/57942022/1344.ts
 #EXTINF:-1 tvg-id="NBATV.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NBA_TV_II.svg/revision/latest/scale-to-width-down/250?cb=20171022124402" group-title="Deportes US",NBA TV 🇺🇸
 http://latinostream.xyz/live/L20260704/L20260704/983742.ts
@@ -262,7 +261,7 @@ http://181.209.38.115:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Sony_Channel_2023.png/revision/latest?cb=20230828233601&path-prefix=es" group-title="Cine",Sony Channel 🇦🇷 
 http://45.188.229.33:8000/play/a1ah/index.m3u8?hls
  
-#EXTINF:-1 tvg-id="SonyMovie.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Sony_Movies_2019_DOG.png/revision/latest/scale-to-width-down/250?cb=20190917082944" group-title="Cine",Sony Movies 🇦🇷 
+#EXTINF:-1 tvg-id="SonyMovies.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Sony_Movies_2019_DOG.png/revision/latest/scale-to-width-down/250?cb=20190917082944" group-title="Cine",Sony Movies 🇦🇷 
 http://liketv.pro/live/alerua5897/24681012/870640.ts
  
  
