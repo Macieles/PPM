@@ -1,7 +1,7 @@
 # PPM
 #EXTM3U  url-tvg="https://www.open-epg.com/generate/4faKcAGZ25.xml.gz"
 
-#EXTINF:-1 tvg-name="La Nación.uy" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 🇦🇷 
+#EXTINF:-1 tvg-name="LaNación.uy" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 🇦🇷 
 #EXTVLCOPT:http-user-agent=iPhone
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
