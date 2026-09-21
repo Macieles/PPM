@@ -51,11 +51,20 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/11-HolaTV.png?raw=true" título del grupo="General",Hola TV 🇪🇸 
 http://latinostream.xyz/live/L20260704/L20260704/751993.ts
 
-#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="Caricaturas",Adult Swim 
+#EXTINF:-1 tvg-id="AdultSwim.uy" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="Caricaturas",Adult Swim 
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1dp/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="A&E HD.uy" tvg-logo="https://logodix.com/logo/2107258.png" group-title="General",A&E 🇦🇷 
+#EXTINF:-1 tvg-id="A3Cine.uy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Cine", A3CINE
+http://liketv.pro/live/alerua5897/24681012/870678.ts
+
+#EXTINF:-1 tvg-id="A3Series.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="Cine", A3SERIES
+http://liketv.pro/live/alerua5897/24681012/7416.ts
+
+#EXTINF:-1 tvg-id="Antena3.uy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/250px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="Cine", ANTENA 3 
+http://liketv.pro/live/alerua5897/24681012/870591.ts
+
+#EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://logodix.com/logo/2107258.png" group-title="General",A&E 🇦🇷 
 http://190.93.224.42/AYE/index.m3u8
 
 #EXTINF:-1 tvg-id="Amc.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine",AMC 🇦🇷 
@@ -130,8 +139,15 @@ http://go.iptvhn.net:25461/live/5794/57942022/1290.ts
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 🇦🇷 
 http://201.240.104.137:8000/play/a0ah/index.m3u8
- 
 
+#EXTINF:-1 tvg-name="CineLatino.ar" tvg-logo="https://i.pinimg.com/originals/8e/c1/12/8ec1121b2039c6e2a9b77af104818d54.png" group-title="PELICULAS",CINE LATINO HD
+http://go.iptvhn.net:25461/live/5794/57942022/1304.ts
+
+#EXTINF:-1 tvg-name="GoldenPremier.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832" group-title="+ CANALES HD",GOLDEN PREMIER 
+http://go.iptvhn.net:25461/live/5794/57942022/3361.ts
+
+#EXTINF:-1 tvg-id="USANetwork.uy" tvg-logo="http://dplatino.net:8080/images/6979e93d9ac7e3264e4f4673917fc022.png" group-title="Cine",  USA Network 
+http://latinostream.xyz/live/L20260704/L20260704/769830.ts
 #EXTINF:-1 tvg-id="Discovery.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Discovery.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 
 http://go.iptvhn.net:25461/live/5794/57942022/1231.ts
 
@@ -215,6 +231,9 @@ http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/758159.ts
+
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷
+http://latinostream.xyz/live/L20260704/L20260704/782223.ts
  
 #EXTINF:-1 tvg-id="ElGarage.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Automovilismo",Garage TV 🇦🇷 
 https://stream1.sersat.com/hls/garagetv.m3u8](http://latinostream.xyz/live/L20260704/L20260704/769784.ts
@@ -299,6 +318,14 @@ http://go.iptvhn.net:25461/live/5794/57942022/3426.ts
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine",Universal TV 🇦🇷 
 http://181.115.239.66:8000/play/a00w/index.m3u8
 
+#EXTINF:-1 tvg-name="DisneyChannel.ar" tvg-logo="http://iptvposter.xperfil.shop/poster/disney-channel.png" group-title="INFANTIL",DISNEY CHANNEL  HD
+http://liketv.pro/live/alerua5897/24681012/869917.ts
+
+#EXTINF:-1 tvg-name="Nickelodeon.ar" tvg-logo="http://iptvposter.xperfil.shop/poster/nickelodeon.png" group-title="INFANTIL",NICKELODEON HD
+http://liketv.pro/live/alerua5897/24681012/802948.ts
+
+#EXTINF:-1 tvg-name="CartoonNetwork.ar" tvg-logo="http://iptvposter.xperfil.shop/poster/cartoon.png" group-title="INFANTIL",CARTOON NETWORK HD
+http://liketv.pro/live/alerua5897/24681012/870584.ts
 
  
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Argentina",Volver 🇦🇷 
@@ -314,7 +341,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/1320.ts
 #EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://images.seeklogo.com/logo-png/44/1/tlnovelas-logo-png_seeklogo-446460.png" group-title="Novelas", TL novelas 
 http://latinostream.xyz/live/L20260704/L20260704/769820.ts
 
-#Extinf:-1 tvg-id="LasEstrellas.ar" tvg-logo="https://images.seeklogo.com/logo-png/28/1/las-estrellas-logo-png_seeklogo-288754.png" group-title="Novelas", Las estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/2048px-Canal_de_las_Estrellas_logo.svg.png" group-title="Novelas", Las estrellas
 http://go.iptvhn.net:25461/live/5794/57942022/1833.ts
 
  
