@@ -156,6 +156,9 @@ http://go.iptvhn.net:25461/live/5794/57942022/1231.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 
 http://go.iptvhn.net:25461/live/5794/57942022/1233.ts
 
+#EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://i.postimg.cc/HnhjTpcP/TLC.png" group-title="Documentales",TLC
+http://latinostream.xyz/live/L20260704/L20260704/769241.ts
+
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/769683.ts
 
@@ -174,22 +177,23 @@ http://latinostream.xyz/live/L20260704/L20260704/769242.ts
 #EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World 🇦🇷 
 http://go.iptvhn.net:25461/live/5794/57942022/1340.ts
 
-#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/769785.ts
 
 
-#EXTINF:-1 tvg-id="DAZNF1.Spain" tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Deportes",DAZN 
+#EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Deportes",DAZN 
 http://go.iptvhn.net:25461/live/5794/57942022/3352.ts
+
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV 🇦🇷 
 http://181.209.38.115:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 1
+#EXTINF:-1 tvg-id="DSports.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 1
 http://latinostream.xyz/live/L20260704/L20260704/983332.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🇦🇷 
+#EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🇦🇷 
 http://181.209.80.115:8000/play/dsports_2_hd
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1761895133865" group-title="Deportes",DSports + 🇦🇷 
+#EXTINF:-1 tvg-id="DSportsPlus.uy" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1761895133865" group-title="Deportes",DSports + 🇦🇷 
 http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/722195.ts
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 
@@ -244,7 +248,7 @@ http://latinostream.xyz/live/L20260704/L20260704/769684.ts
 #EXTINF:-1 tvg-id="History.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true" group-title="Documentales",History Channel 🇦🇷 
 http://go.iptvhn.net:25461/live/5794/57942022/1349.ts
 
-#EXTINF:-1 tvg-id="Historia2.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" group-title="Documentales",Historia 2 🇦🇷 
+#EXTINF:-1 tvg-id="History2.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" group-title="Documentales",Historia 2 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/769685.ts
 
  
