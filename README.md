@@ -5,7 +5,7 @@
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 🇦🇷 
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tvpublica.playlist.m3u8
+http://181.209.80.115:8000/play/tv_publica_hd
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 🇦🇷 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -273,6 +273,7 @@ http://liketv.pro/live/alerua5897/24681012/870640.ts
 http://138.59.227.20:8000/play/a071/index.m3u8?hls
  
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png?raw=true" group-title="General",Star Channel 🇦🇷 
+http://181.209.38.115:8000/play/a019/index.m3u8
 ttp://138.59.227.20:8000/play/a087/index.m3u8?hls 
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telemax.png?raw=true" group-title="Argentina",Telemax 🇦🇷 
