@@ -200,7 +200,8 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/722195.ts
 http://latinostream.xyz/live/L20260704/L20260704/782198.ts
  
 #EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://wtcks.com/images/channels/logos/espn2.png" group-title="Deportes",ESPN 2 🇦🇷
-http://45.5.151.147:8000/play/a00j/index.m3u8](http://latinostream.xyz/live/L20260704/L20260704/782195.ts
+http://latinostream.xyz/live/L20260704/L20260704/782195.ts
+http://45.188.229.33:8000/play/a1ab/index.m3u8?hls
  
 #EXTINF:-1 tvg-id="Espn3.ar" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes",ESPN 3 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/776700.ts
@@ -218,7 +219,8 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8](http://181.224.255.210:8001/play
 http://181.78.12.119:16123/play/ch20/index.m3u8
  
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium 🇦🇷 
-http://latinostream.xyz/live/L20260704/L20260704/782279.ts
+http://45.188.229.33:8000/play/a1di/index.m3u8
+http://181.209.38.115:8000/play/a00f/index.m3u8
  
 
  
