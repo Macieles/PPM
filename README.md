@@ -67,9 +67,11 @@ http://liketv.pro/live/alerua5897/24681012/870591.ts
 http://190.93.224.42/AYE/index.m3u8
 
 #EXTINF:-1 tvg-id="Amc.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-0.png" group-title="Cine",AMC 🇦🇷 
+http://liketv.pro/live/alerua5897/24681012/870573.ts
 http://181.209.80.115:8000/play/amc
 
 #EXTINF:-1 tvg-id="AmcSeries.ar" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp" group-title="Series",AMC Series 
+http://liketv.pro/live/alerua5897/24681012/870018.ts
 http://158.172.155.130:8000/play/a006/index.m3u8
 
 
@@ -130,7 +132,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/1289.ts
 http://181.224.255.210:8001/play/a0on/index.m3u8?hls
  
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120" group-title="Cine",HBO Signature 
-http://latinostream.xyz/live/L20260704/L20260704/769408.ts
+http://latinostream.xyz/live/L20260704/L20260704/782179.ts
  
 
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOXtreme.png?raw=true" group-title="Cine",HBO Xtreme
