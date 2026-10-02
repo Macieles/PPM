@@ -27,7 +27,8 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
  
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece 🇦🇷 
 #EXTVLCOPT:http-referrer=https://vodgc.net
-(https://livetrx01.vodgc.net/eltrecetv/index.m3u8](https://livetrx01.vodgc.net/eltrecetv/index.m3u8)
+http://liketv.pro/live/alerua5897/24681012/84.ts
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-name="CronicaTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Cronica.png?raw=true" tvg-id="CronicaTV.ar" group-title="Noticias",Crónica TV 🇦🇷
 http://latinostream.xyz/live/L20260704/L20260704/782159.ts
@@ -152,16 +153,19 @@ http://go.iptvhn.net:25461/live/5794/57942022/3361.ts
 
 #EXTINF:-1 tvg-id="USANetwork.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" group-title="Cine",  USA Network 
 http://latinostream.xyz/live/L20260704/L20260704/769830.ts
+
 #EXTINF:-1 tvg-id="Discovery.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Discovery.png?raw=true" group-title="Documentales",Discovery Channel 🇦🇷 
 http://go.iptvhn.net:25461/live/5794/57942022/1231.ts
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 
-http://go.iptvhn.net:25461/live/5794/57942022/1233.ts
+http://liketv.pro/live/alerua5897/24681012/126764.ts
+
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://i.postimg.cc/HnhjTpcP/TLC.png" group-title="Documentales",TLC
 http://latinostream.xyz/live/L20260704/L20260704/769241.ts
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 
+http://liketv.pro/live/alerua5897/24681012/802451.ts
 http://latinostream.xyz/live/L20260704/L20260704/769683.ts
 
 #EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇦🇷 
@@ -313,6 +317,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/2732.ts
 http://go.iptvhn.net:25461/live/5794/57942022/2733.ts
 
 #EXTINF:-1 tvg-id="UniversalPremiere.uy" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="Cine",Universal Premiere 
+http://liketv.pro/live/alerua5897/24681012/802472.ts
 http://go.iptvhn.net:25461/live/5794/57942022/3426.ts
  
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine",Universal TV 🇦🇷 
@@ -339,7 +344,7 @@ http://181.209.80.115:8000/play/warner_channel_hd
 http://go.iptvhn.net:25461/live/5794/57942022/1320.ts
 
 #EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png", TL novelas 
-http://latinostream.xyz/live/L20260704/L20260704/769820.ts
+http://liketv.pro/live/alerua5897/24681012/17404.ts
 
 #EXTINF:-1 tvg-id="LasEstrellas.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas", Las estrellas
 http://go.iptvhn.net:25461/live/5794/57942022/1833.ts
