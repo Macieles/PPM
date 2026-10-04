@@ -93,7 +93,7 @@ http://190.7.19.197:232/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal 🇦🇷 
 http://181.209.38.115:8000/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax 🇦🇷 
+#EXTINF:-1 tvg-id="CINEMAX.mx" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/769168.ts
 
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central 🇦🇷 
@@ -113,6 +113,7 @@ http://181.209.80.115:8000/play/axn_hd
 http://179.1.146.22:8000/play/a0bo/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO2.png?raw=true" título del grupo="Cine",HBO 2 
+http://superxlatino.com:8880/live/Marco001/ShXkn9Zfk8yd/414462.m3u8
 http://45.5.117.99:8000/play/a00c/index.m3u8
 
  
