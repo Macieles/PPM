@@ -94,6 +94,7 @@ http://190.7.19.197:232/play/a094/index.m3u8
 http://181.209.38.115:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX.mx" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax 🇦🇷 
+http://latinostream.xyz/live/%20felixpenatv%20%20%20/L20260730%20%20/769037.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769168.ts
 
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central 🇦🇷 
@@ -275,10 +276,12 @@ http://181.209.38.115:8000/play/a02s/index.m3u8
 http://45.188.229.33:8000/play/a1ah/index.m3u8?hls
  
 #EXTINF:-1 tvg-id="SonyMovies.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Sony_Movies_2019_DOG.png/revision/latest/scale-to-width-down/250?cb=20190917082944" group-title="Cine",Sony Movies 🇦🇷 
+http://190.121.140.222:8081/SONY-MOVIES/index.m3u8
 http://liketv.pro/live/alerua5897/24681012/870640.ts
  
  
-#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Cine",Space 🇦🇷 
+#EXTINF:-1 tvg-id="Space.sv" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Cine",Space 🇦🇷 
+http://latinostream.xyz/live/L20260704/L20260704/769260.ts
 http://138.59.227.20:8000/play/a071/index.m3u8?hls
  
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png?raw=true" group-title="General",Star Channel 🇦🇷 
@@ -299,7 +302,8 @@ http://138.59.227.20:8000/play/a08c/index.m3u8?hls
 
 
  
-#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 🇦🇷 
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.mx" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 🇦🇷 
+http://latinostream.xyz/live/%20felixpenatv%20%20%20/L20260730%20%20/769246.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769411.ts
 
 #EXTINF:-1 tvg-id="UniversalCinema.uy" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" group-title="Cine",Universal Cinema 
