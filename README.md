@@ -94,7 +94,7 @@ http://190.7.19.197:232/play/a094/index.m3u8
 http://181.209.38.115:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX.mx" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax 🇦🇷 
-http://latinostream.xyz/live/%20felixpenatv%20%20%20/L20260730%20%20/769037.m3u8
+http://latinostream.xyz/live/L20260704/L20260704/769107.ts
 http://latinostream.xyz/live/L20260704/L20260704/769168.ts
 
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central 🇦🇷 
