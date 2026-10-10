@@ -48,7 +48,7 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NetTV 🇦🇷 
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://i.postimg.cc/rmKHk5Dn/Hola-TV.png" título del grupo="General",Hola TV 🇪🇸 
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg?" título del grupo="General",Hola TV 🇪🇸 
 http://latinostream.xyz/live/L20260704/L20260704/751993.ts
 
 #EXTINF:-1 tvg-id="AdultSwim.uy" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="Caricaturas",Adult Swim 
@@ -61,7 +61,7 @@ http://liketv.pro/live/alerua5897/24681012/870678.ts
 #EXTINF:-1 tvg-id="A3Series.uy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/250px-Atreseries_2020_logo.svg.png" group-title="Cine", A3SERIES
 http://liketv.pro/live/alerua5897/24681012/7416.ts
 
-#EXTINF:-1 tvg-id="Antena3.uy" tvg-logo="https://i.postimg.cc/gwmHw85z/Antena-3-Internacional.png" group-title="Cine", ANTENA 3 
+#EXTINF:-1 tvg-id="Antena3.uy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png?" group-title="Cine", ANTENA 3 
 http://liketv.pro/live/alerua5897/24681012/870591.ts
 
 #EXTINF:-1 tvg-id="AandE.uy" tvg-logo="https://logodix.com/logo/2107258.png" group-title="General",A&E 🇦🇷 
@@ -209,14 +209,14 @@ http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/722195.ts
 http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/782198.ts
  
-#EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes",ESPN 2 🇦🇷
+#EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes",ESPN 2 🇦🇷
 http://latinostream.xyz/live/L20260704/L20260704/782195.ts
 http://45.188.229.33:8000/play/a1ab/index.m3u8?hls
  
-#EXTINF:-1 tvg-id="Espn3.ar" tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="Deportes",ESPN 3 🇦🇷 
+#EXTINF:-1 tvg-id="Espn3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes",ESPN 3 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/776700.ts
  
-#EXTINF:-1 tvg-id="ESPN4.uy" tvg-logo="https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png" group-title="Deportes",ESPN 4 🇦🇷 
+#EXTINF:-1 tvg-id="ESPN4.uy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes",ESPN 4 🇦🇷 
 http://latinostream.xyz/live/L20260704/L20260704/782206.ts
   
 #EXTINF:-1 tvg-id="ESPN5.uy" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 🇦🇷 
