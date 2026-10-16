@@ -196,6 +196,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/3352.ts
 http://181.209.38.115:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 1
+http://181.209.80.115:8000/play/dsports_hd
 http://latinostream.xyz/live/L20260704/L20260704/983332.ts
 
 #EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2 🇦🇷 
@@ -244,9 +245,11 @@ http://45.188.229.33:8000/play/a1dh/index.m3u8?hls
 http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-TyC.png?raw=true" group-title="Deportes",TyC Sports 🇦🇷 
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/758159.ts
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷
+http://181.209.80.115:8000/play/tnt_sports_hd
 http://latinostream.xyz/live/L20260704/L20260704/782223.ts
  
 #EXTINF:-1 tvg-id="ElGarage.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Automovilismo",Garage TV 🇦🇷 
@@ -267,6 +270,7 @@ http://latinostream.xyz/live/L20260704/L20260704/769685.ts
  
 #EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Natgeo.png?raw=true" group-title="Documentales",National Geographic 🇦🇷
 http://go.iptvhn.net:25461/live/5794/57942022/1344.ts
+
 #EXTINF:-1 tvg-id="NBATV.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NBA_TV_II.svg/revision/latest/scale-to-width-down/250?cb=20171022124402" group-title="Deportes US",NBA TV 🇺🇸
 http://latinostream.xyz/live/L20260704/L20260704/983742.ts
 
