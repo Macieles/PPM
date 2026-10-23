@@ -2,7 +2,7 @@
 #EXTM3U  url-tvg="https://www.open-epg.com/generate/4faKcAGZ25.xml.gz"
 
 #EXTINF:-1 tvg-id="LaNacion.uy" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 
-http://superxlatino.com:8880/live/Marco001/ShXkn9Zfk8yd/490466.m3u8
+http://superxlatino.com:8880/live/Barber/UcxVLfq8MNcg/490466.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 
@@ -29,7 +29,7 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina",El Trece 
 #EXTVLCOPT:http-referrer=https://vodgc.net
 http://liketv.pro/live/alerua5897/24681012/84.ts
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://latinostream.xyz/live/L20260704/L20260704/748228.ts
 
 #EXTINF:-1 tvg-name="CronicaTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Cronica.png?raw=true" tvg-id="CronicaTV.ar" group-title="Noticias",Crónica TV 
 http://latinostream.xyz/live/L20260704/L20260704/782159.ts
@@ -114,9 +114,9 @@ http://181.209.80.115:8000/play/axn_hd
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO.png?raw=true" título del grupo="Cine",HBO 
 http://179.1.146.22:8000/play/a0bo/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO2.png?raw=true" título del grupo="Cine",HBO 2 
-http://superxlatino.com:8880/live/Marco001/ShXkn9Zfk8yd/414462.m3u8
+#EXTINF:-1 tvg-id="HBO2.uy" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO2.png?raw=true" título del grupo="Cine",HBO 2 
 http://45.5.117.99:8000/play/a00c/index.m3u8
+
 
  
 #EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOFamiliy.png?raw=true" group-title="Cine",HBO Family 
@@ -143,7 +143,7 @@ http://latinostream.xyz/live/L20260704/L20260704/782179.ts
 http://go.iptvhn.net:25461/live/5794/57942022/1290.ts
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 
-http://201.240.104.137:8000/play/a0ah/index.m3u8
+http://liketv.pro/live/alerua5897/24681012/870587.ts
 
 #EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Cine, Novelas y Series", DHE
 http://181.119.215.61:8000/play/a0gy/index.m3u8?hls
