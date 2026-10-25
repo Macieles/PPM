@@ -2,7 +2,7 @@
 #EXTM3U  url-tvg="https://www.open-epg.com/generate/4faKcAGZ25.xml.gz"
 
 #EXTINF:-1 tvg-id="LaNacion.uy" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 
-http://superxlatino.com:8880/live/Barber/UcxVLfq8MNcg/490466.m3u8
+http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/490466.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 
@@ -19,7 +19,8 @@ http://45.134.141.161:2200/ARG/A24/index.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Nueve.png?raw=true" group-title="Argentina",El Nueve 
-(http://45.188.229.33:8000/play/a1a5/index.m3u8?hls)
+http://181.209.80.115:8000/play/el_nueve_hd
+http://45.188.229.33:8000/play/a1a5/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-TN.png?raw=true" título del grupo="Noticias",TN  
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
@@ -40,6 +41,7 @@ http://latinostream.xyz/live/L20260704/L20260704/782154.ts
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="Argentina",Telefe HD 
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://45.188.229.33:8000/play/a1dm/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-Canal26.png?raw=true" group-title="Noticias",Canal 26 
@@ -104,6 +106,7 @@ http://158.172.155.130:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" título del grupo="Cine",FX 
 http://138.59.227.20:8000/play/a070/index.m3u8?hls
+
 ##EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine",Ciudad Magazine 
 http://latinostream.xyz/live/L20260704/L20260704/748112.ts
 
@@ -117,20 +120,14 @@ http://179.1.146.22:8000/play/a0bo/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.uy" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO2.png?raw=true" título del grupo="Cine",HBO 2 
 http://45.5.117.99:8000/play/a00c/index.m3u8
 
-
- 
 #EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOFamiliy.png?raw=true" group-title="Cine",HBO Family 
 http://45.5.117.99:8000/play/a0l5/index.m3u8
-
  
 #EXTINF:-1 tvg-id="HBOMundi.ar" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="Cine",HBO Mundi 
 http://latinostream.xyz/live/L20260704/L20260704/769183.ts
  
- 
 #EXTINF:-1 tvg-id="HBOPlus.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPlus.png?raw=true" título del grupo="Cine",HBO Plus
 http://go.iptvhn.net:25461/live/5794/57942022/1289.ts
- 
-
  
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPop.png?raw=true" group-title="Cine",HBO POP 
 http://latinostream.xyz/live/L20260704/L20260704/769096.ts
@@ -138,7 +135,6 @@ http://latinostream.xyz/live/L20260704/L20260704/769096.ts
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120" group-title="Cine",HBO Signature 
 http://latinostream.xyz/live/L20260704/L20260704/782179.ts
  
-
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOXtreme.png?raw=true" group-title="Cine",HBO Xtreme
 http://go.iptvhn.net:25461/live/5794/57942022/1290.ts
 
@@ -161,14 +157,16 @@ http://latinostream.xyz/live/L20260704/L20260704/769830.ts
 http://go.iptvhn.net:25461/live/5794/57942022/1231.ts
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/ID.png" group-title="Documentales",Investigation Discovery 
+http://200.60.97.100:28888/play/a0ih/index.m3u8
 http://liketv.pro/live/alerua5897/24681012/126764.ts
 
 
-#EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://i.postimg.cc/HnhjTpcP/TLC.png" group-title="Documentales",TLC
+#EXTINF:-1 tvg-id="DISCOVERY TLC.mx" tvg-logo="https://i.postimg.cc/HnhjTpcP/TLC.png" group-title="Documentales",TLC
+http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/534822.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769241.ts
 
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="https://static.cdnlogo.com/logos/d/34/discovery-home-038-health.png" group-title="Documentales",Discovery H&H 🇦🇷 
-http://liketv.pro/live/alerua5897/24681012/802451.ts
+http://158.172.155.130:8000/play/a00t/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769683.ts
 
 #EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇦🇷 
@@ -348,7 +346,6 @@ http://liketv.pro/live/alerua5897/24681012/870584.ts
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Argentina",Volver 
 http://181.209.80.115:8000/play/volver
 
-
 #EXTINF:-1 tvg-id="Warner.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true" group-title="General",Warner Channel
 http://181.209.80.115:8000/play/warner_channel_hd
  
@@ -357,6 +354,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/1320.ts
 
 #EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png", TL novelas 
 http://liketv.pro/live/alerua5897/24681012/17404.ts
+http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/135436.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas", Las estrellas
 http://go.iptvhn.net:25461/live/5794/57942022/1833.ts
