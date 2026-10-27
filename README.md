@@ -2,7 +2,6 @@
 #EXTM3U  url-tvg="https://www.open-epg.com/generate/4faKcAGZ25.xml.gz"
 
 #EXTINF:-1 tvg-id="LaNacion.uy" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 
-http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/490466.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 
@@ -41,8 +40,8 @@ http://latinostream.xyz/live/L20260704/L20260704/782154.ts
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="Argentina",Telefe HD 
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://45.188.229.33:8000/play/a1dm/index.m3u8?hls
+http://158.172.155.130:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-Canal26.png?raw=true" group-title="Noticias",Canal 26 
 #EXTVLCOPT:network-caching=1000
@@ -353,8 +352,9 @@ http://181.209.80.115:8000/play/warner_channel_hd
 http://go.iptvhn.net:25461/live/5794/57942022/1320.ts
 
 #EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png", TL novelas 
-http://liketv.pro/live/alerua5897/24681012/17404.ts
 http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/135436.m3u8
+http://liketv.pro/live/alerua5897/24681012/17404.ts
+
 
 #EXTINF:-1 tvg-id="LasEstrellas.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="Novelas", Las estrellas
 http://go.iptvhn.net:25461/live/5794/57942022/1833.ts
