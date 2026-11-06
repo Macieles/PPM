@@ -111,6 +111,7 @@ http://latinostream.xyz/live/L20260704/L20260704/748112.ts
 
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-AXN.png?raw=true" group-title="Cine",AXN  
 #EXTVLCOPT:network-caching=1000
+http://158.172.155.130:8000/play/a0df/index.m3u8
 http://181.209.80.115:8000/play/axn_hd
 
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO.png?raw=true" título del grupo="Cine",HBO 
@@ -190,19 +191,20 @@ http://latinostream.xyz/live/L20260704/L20260704/769785.ts
 #EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Deportes",DAZN 
 http://go.iptvhn.net:25461/live/5794/57942022/3352.ts
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV 
-http://181.209.38.115:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV
+http://ltv.ddns.net:8080/rs086808/mpZJHKchMB/5188.ts
 
 #EXTINF:-1 tvg-id="DSports.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 1
-http://181.209.80.115:8000/play/dsports_hd
+http://45.188.229.33:8000/play/a1iw/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/983332.ts
 
 #EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest?cb=20221114123734" group-title="Deportes",DSports 2  
 http://181.209.80.115:8000/play/dsports_2_hd
 
 #EXTINF:-1 tvg-id="DSportsPlus.uy" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1761895133865" group-title="Deportes",DSports +  
+http://38.210.105.10:8000/play/a0j5/index.m3u8
 http://38.199.5.160:8000/play/a09q/index.m3u8
-http://quizasunomasuno.com/live/8famalmorza/3B9Eqkxkew/722195.ts
+
 
 #EXTINF:-1 tvg-id="Espn.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 
 http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
@@ -343,6 +345,7 @@ http://liketv.pro/live/alerua5897/24681012/870584.ts
 
  
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/e5e262a0a5e42c025e296159e95fe0c45afad7c2/icons/05-Volver.png?raw=true" group-title="Argentina",Volver 
+http://138.59.227.20:8000/play/a066/index.m3u8
 http://181.209.80.115:8000/play/volver
 
 #EXTINF:-1 tvg-id="Warner.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true" group-title="General",Warner Channel
