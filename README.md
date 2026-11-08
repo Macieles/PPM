@@ -5,6 +5,7 @@
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 
+http://177.53.153.207:8000/play/a00h/index.m3u8
 http://181.209.80.115:8000/play/tv_publica_hd
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24 
@@ -51,20 +52,23 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg?" título del grupo="General",Hola TV 
-http://latinostream.xyz/live/L20260704/L20260704/751993.ts
+http://go.iptvhn.net:25461/live/5794/57942022/1271.ts
+http://latinostream.xyz:8080/live/L20260704/L20260704/751993.ts
 
 #EXTINF:-1 tvg-id="AdultSwim.uy" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" group-title="Caricaturas",Adult Swim 
 #EXTVLCOPT:network-caching=1000
 http://45.188.229.33:8000/play/a1dp/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="A3Cine.uy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" group-title="Cine", A3CINE
-http://liketv.pro/live/alerua5897/24681012/870678.ts
+http://liketv.pro/live/alerua5897/24681012/7415.ts
+
 
 #EXTINF:-1 tvg-id="A3Series.uy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/250px-Atreseries_2020_logo.svg.png" group-title="Cine", A3SERIES
 http://liketv.pro/live/alerua5897/24681012/7416.ts
 
 #EXTINF:-1 tvg-id="Antena3.uy" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png?" group-title="Cine", ANTENA 3 
-http://liketv.pro/live/alerua5897/24681012/870591.ts
+http://liketv.pro/live/alerua5897/24681012/147.ts
+
 
 #EXTINF:-1 tvg-id="AandE.uy" tvg-logo="https://logodix.com/logo/2107258.png" group-title="General",A&E 
 http://190.93.224.42/AYE/index.m3u8
@@ -73,14 +77,16 @@ http://190.93.224.42/AYE/index.m3u8
 http://go.iptvhn.net:25461/live/5794/57942022/1373.ts
 http://liketv.pro/live/alerua5897/24681012/870573.ts
 
-#EXTINF:-1 tvg-id="AmcSeries.ar" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Series",AMC Series 
-http://liketv.pro/live/alerua5897/24681012/870018.ts
+#EXTINF:-1 tvg-id="AmcSeries.ar" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Series",AMC Series
 http://158.172.155.130:8000/play/a006/index.m3u8
+http://liketv.pro/live/alerua5897/24681012/870018.ts
 
 
-#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/01-AnimalPlanet.png?raw=true" group-title="Documentales",Animal Planet 
+
+#EXTINF:-1 tvg-id="Animal Planet.cl" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/01-AnimalPlanet.png?raw=true" group-title="Documentales",Animal Planet 
 #EXTVLCOPT:network-caching=1000
-http://superxlatino.com:8880/live/Marco001/ShXkn9Zfk8yd/318624.m3u8
+http://181.78.8.199:8000/play/a0by/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BravoTV.ar" tvg-logo="https://mediakit.perfil.com/img/logo-bravo-tv.png" group-title="General",Bravo TV 🇦🇷 
 #EXTVLCOPT:network-caching=1000
@@ -104,6 +110,7 @@ http://latinostream.xyz/live/L20260704/L20260704/769168.ts
 http://158.172.155.130:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-FX.png?raw=true" título del grupo="Cine",FX 
+http://181.119.177.253:8000/play/a0di/index.m3u8?hls
 http://138.59.227.20:8000/play/a070/index.m3u8?hls
 
 ##EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine",Ciudad Magazine 
@@ -111,8 +118,8 @@ http://latinostream.xyz/live/L20260704/L20260704/748112.ts
 
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-AXN.png?raw=true" group-title="Cine",AXN  
 #EXTVLCOPT:network-caching=1000
+http://181.115.239.66:8000/play/a00s/index.m3u8
 http://158.172.155.130:8000/play/a0df/index.m3u8
-http://181.209.80.115:8000/play/axn_hd
 
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBO.png?raw=true" título del grupo="Cine",HBO 
 http://179.1.146.22:8000/play/a0bo/index.m3u8
@@ -130,16 +137,19 @@ http://latinostream.xyz/live/L20260704/L20260704/769183.ts
 http://go.iptvhn.net:25461/live/5794/57942022/1289.ts
  
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPop.png?raw=true" group-title="Cine",HBO POP 
-http://latinostream.xyz/live/L20260704/L20260704/769096.ts
+http://191.97.14.162:8000/play/a017/index.m3u8
+http://latinostream.xyz:8080/live/L20260704/L20260704/769096.ts
  
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120" group-title="Cine",HBO Signature 
-http://latinostream.xyz/live/L20260704/L20260704/782179.ts
+http://latinostream.xyz:8080/live/L20260704/L20260704/782179.ts
+
  
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOXtreme.png?raw=true" group-title="Cine",HBO Xtreme
 http://go.iptvhn.net:25461/live/5794/57942022/1290.ts
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 
-http://liketv.pro/live/alerua5897/24681012/870587.ts
+http://makitekk.com/live/DSCXPVQ93ANU7CK/GIcWVMfFlB/30622.ts
+
 
 #EXTINF:-1 tvg-id="DHE.ar" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Cine, Novelas y Series", DHE
 http://181.119.215.61:8000/play/a0gy/index.m3u8?hls
@@ -147,7 +157,8 @@ http://181.119.215.61:8000/play/a0gy/index.m3u8?hls
 #EXTINF:-1 tvg-name="CineLatino.ar" tvg-logo="https://i.pinimg.com/originals/8e/c1/12/8ec1121b2039c6e2a9b77af104818d54.png" group-title="PELICULAS",CINE LATINO HD
 http://go.iptvhn.net:25461/live/5794/57942022/1304.ts
 
-#EXTINF:-1 tvg-name="GoldenPremier.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832" group-title="+ CANALES HD",GOLDEN PREMIER 
+#EXTINF:-1 tvg-name="Golden.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832" group-title="+ CANALES HD",GOLDEN PREMIER 
+http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/414507.m3u8
 http://go.iptvhn.net:25461/live/5794/57942022/3361.ts
 
 #EXTINF:-1 tvg-id="USANetwork.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" group-title="Cine",  USA Network 
@@ -249,7 +260,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 http://latinostream.xyz/live/L20260704/L20260704/758159.ts
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷
-http://181.209.80.115:8000/play/tnt_sports_hd
+http://138.59.227.20:8000/play/a06z/index.m3u8?hls
+http://190.128.214.127:64333/play/a03c/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/782223.ts
  
 #EXTINF:-1 tvg-id="ElGarage.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Automovilismo",Garage TV 
@@ -259,6 +271,7 @@ http://latinostream.xyz/live/L20260704/L20260704/769784.ts
 
  
 #EXTINF:-1 tvg-id="HGTV.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/HGTV_2015_azul.svg/revision/latest/scale-to-width-down/300?cb=20210817060747&path-prefix=es" group-title="Documentales",HGTV 
+http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/318631.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769684.ts
  
 #EXTINF:-1 tvg-id="History.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History.png?raw=true" group-title="Documentales",History Channel 
@@ -272,6 +285,7 @@ http://latinostream.xyz/live/L20260704/L20260704/769685.ts
 http://go.iptvhn.net:25461/live/5794/57942022/1344.ts
 
 #EXTINF:-1 tvg-id="NBATV.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/NBA_TV_II.svg/revision/latest/scale-to-width-down/250?cb=20171022124402" group-title="Deportes US",NBA TV
+http://makitekk.com/live/DSCXPVQ93ANU7CK/GIcWVMfFlB/71986.ts
 http://latinostream.xyz/live/L20260704/L20260704/983742.ts
 
 
@@ -287,20 +301,22 @@ http://190.121.140.222:8081/SONY-MOVIES/index.m3u8
 http://liketv.pro/live/alerua5897/24681012/870640.ts
  
  
-#EXTINF:-1 tvg-id="Space.sv" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Cine",Space 
+#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Cine",Space 
+http://158.172.155.130:8000/play/a00o/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769260.ts
-http://138.59.227.20:8000/play/a071/index.m3u8?hls
  
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png?raw=true" group-title="General",Star Channel 
 http://138.59.227.20:8000/play/a087/index.m3u8?hls 
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telemax.png?raw=true" group-title="Argentina",Telemax 
-http://latinostream.xyz/live/L20260704/L20260704/748968.ts
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNT.png?raw=true" título del grupo="Cine",TNT 
+http://138.59.227.20:8000/play/a08b/index.m3u8?hls
 http://181.209.80.115:8000/play/tnt_hd
 
 #EXTINF:-1 tvg-id="TNTNovelas.uy" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/06-TNTNovelas.png?raw=true" group-title="Novelas",TNT Novelas 
+http://138.59.227.20:8000/play/a08e/index.m3u8?hls
 http://181.209.38.115:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-TNTSeries.png?raw=true" group-title="Serie",TNT Series 
@@ -315,11 +331,10 @@ http://latinostream.xyz/live/L20260704/L20260704/769411.ts
 #EXTINF:-1 tvg-id="UniversalCinema.uy" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_03/small.1414587199_UniversalCinema-Claro.png.a88ebacac50bab493289c33a1afef121.png" group-title="Cine",Universal Cinema 
 http://go.iptvhn.net:25461/live/5794/57942022/2461.ts
 
-
 #EXTINF:-1 tvg-id="UniversalComedy.uy" tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="Cine",Universal Comedy
+http://45.181.120.65:9087/play/a0f9/index.m3u8?PlaylistM3UCL
 http://latinostream.xyz/live/L20260704/L20260704/769214.ts
  
-
  
 #EXTINF:-1 tvg-id="UniversalCrime.uy" tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="Cine",Universal Crime
 http://go.iptvhn.net:25461/live/5794/57942022/2732.ts
@@ -328,7 +343,7 @@ http://go.iptvhn.net:25461/live/5794/57942022/2732.ts
 http://go.iptvhn.net:25461/live/5794/57942022/2733.ts
 
 #EXTINF:-1 tvg-id="UniversalPremiere.uy" tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="Cine",Universal Premiere 
-http://liketv.pro/live/alerua5897/24681012/802472.ts
+http://go.iptvhn.net:25461/live/5794/57942022/3374.ts
 http://go.iptvhn.net:25461/live/5794/57942022/3426.ts
  
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="Cine",Universal TV 
