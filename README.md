@@ -373,7 +373,6 @@ http://go.iptvhn.net:25461/live/5794/57942022/1320.ts
 #EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png", TL novelas 
 http://go.iptvhn.net:25461/live/5794/57942022/2509.ts
 http://liketv.pro/live/alerua5897/24681012/17404.ts
-http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/135436.m3u8
 
 
 
