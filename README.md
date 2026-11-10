@@ -370,7 +370,8 @@ http://181.209.80.115:8000/play/warner_channel_hd
 #EXTINF:-1 tvg-id="Telemundo.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/03-Telemundo.png?raw=true" group-title="General US",Telemundo Internacional 
 http://go.iptvhn.net:25461/live/5794/57942022/1320.ts
 
-#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png", TL novelas 
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png", TL novelas
+http://liketv.pro/live/alerua5897/24681012/17404.ts
 http://go.iptvhn.net:25461/live/5794/57942022/2509.ts
 
 
