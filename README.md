@@ -306,6 +306,7 @@ http://158.172.155.130:8000/play/a00o/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769260.ts
  
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-StarChannel.png?raw=true" group-title="General",Star Channel 
+http://177.53.153.207:8000/play/a00x/index.m3u8
 http://138.59.227.20:8000/play/a087/index.m3u8?hls 
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telemax.png?raw=true" group-title="Argentina",Telemax 
