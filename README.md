@@ -2,6 +2,7 @@
 #EXTM3U  url-tvg="https://www.open-epg.com/generate/4faKcAGZ25.xml.gz"
 
 #EXTINF:-1 tvg-id="LaNacion.uy" tvg-logo="https://i.imgur.com/Gj1kqH5.png"  group-title="Noticias",LN+ 
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/LaNacionPlusHD.stream/playlist.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/782150.ts
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina",TV Pública 
@@ -41,8 +42,9 @@ http://latinostream.xyz/live/L20260704/L20260704/782154.ts
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="Argentina",Telefe HD 
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://45.188.229.33:8000/play/a1dm/index.m3u8?hls
-http://158.172.155.130:8000/play/a00h/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-Canal26.png?raw=true" group-title="Noticias",Canal 26 
 #EXTVLCOPT:network-caching=1000
@@ -131,20 +133,23 @@ http://45.5.117.99:8000/play/a00c/index.m3u8
 http://45.5.117.99:8000/play/a0l5/index.m3u8
  
 #EXTINF:-1 tvg-id="HBOMundi.ar" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="Cine",HBO Mundi 
-http://latinostream.xyz/live/L20260704/L20260704/769183.ts
+http://latinostream.xyz:8080/live/L20260704/L20260704/769183.ts
  
 #EXTINF:-1 tvg-id="HBOPlus.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPlus.png?raw=true" título del grupo="Cine",HBO Plus
 http://go.iptvhn.net:25461/live/5794/57942022/1289.ts
+http://45.5.117.99:8000/play/a0l4/index.m3u8
  
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOPop.png?raw=true" group-title="Cine",HBO POP 
 http://191.97.14.162:8000/play/a017/index.m3u8
 http://latinostream.xyz:8080/live/L20260704/L20260704/769096.ts
  
 #EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg/revision/latest/scale-to-width-down/250?cb=20250505123120" group-title="Cine",HBO Signature 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
 http://latinostream.xyz:8080/live/L20260704/L20260704/782179.ts
 
  
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/05-HBOXtreme.png?raw=true" group-title="Cine",HBO Xtreme
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
 http://go.iptvhn.net:25461/live/5794/57942022/1290.ts
 
 #EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-language="Spanish" group-title="General",MTV 
@@ -162,7 +167,7 @@ http://superxlatino.com:8880/live/Maria98/aq48ynRj5vGv/414507.m3u8
 http://go.iptvhn.net:25461/live/5794/57942022/3361.ts
 
 #EXTINF:-1 tvg-id="USANetwork.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" group-title="Cine",  USA Network 
-http://latinostream.xyz/live/L20260704/L20260704/769830.ts
+http://latinostream.xyz:8080/live/L20260704/L20260704/769830.ts
 
 #EXTINF:-1 tvg-id="Discovery.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-Discovery.png?raw=true" group-title="Documentales",Discovery Channel 
 http://go.iptvhn.net:25461/live/5794/57942022/1231.ts
@@ -181,14 +186,15 @@ http://158.172.155.130:8000/play/a00t/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/769683.ts
 
 #EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Discovery_Science_%282011%29.png/revision/latest?cb=20171215134327" group-title="Documentales",Discovery Science 🇦🇷 
-http://latinostream.xyz/live/L20260704/L20260704/769240.ts
+http://latinostream.xyz:8080/live/L20260704/L20260704/769240.ts
+http://138.59.227.20:8000/play/a06p/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-logo="https://i.imgur.com/T07gvEb.png" group-title="Documentales",Discovery Theater 🇦🇷 
 http://138.59.227.20:8000/play/a074/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo 🇦🇷 
-http://latinostream.xyz/live/L20260704/L20260704/769242.ts
+http://latinostream.xyz:8080/live/L20260704/L20260704/769242.ts
 
 
 
@@ -196,7 +202,7 @@ http://latinostream.xyz/live/L20260704/L20260704/769242.ts
 http://go.iptvhn.net:25461/live/5794/57942022/1340.ts
 
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/09-ElGourmet.png?raw=true" group-title="Cocina",El Gourmet 
-http://latinostream.xyz/live/L20260704/L20260704/769785.ts
+http://latinostream.xyz:8080/live/L20260704/L20260704/769785.ts
 
 
 #EXTINF:-1 tvg-id="DAZNLALIGA.es" tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Deportes",DAZN 
@@ -222,20 +228,23 @@ http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/782198.ts
  
 #EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes",ESPN 2 
-http://latinostream.xyz/live/L20260704/L20260704/782195.ts
 http://45.188.229.33:8000/play/a1ab/index.m3u8?hls
+http://138.59.227.20:8000/play/a098/index.m3u8?hls
  
 #EXTINF:-1 tvg-id="Espn3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes",ESPN 3 
+http://181.115.239.66:8000/play/a00o/index.m3u8
 http://latinostream.xyz/live/L20260704/L20260704/776700.ts
  
 #EXTINF:-1 tvg-id="ESPN4.uy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes",ESPN 4  
+http://45.188.229.33:8000/play/a1dg/index.m3u8?hls
 http://latinostream.xyz/live/L20260704/L20260704/782206.ts
   
 #EXTINF:-1 tvg-id="ESPN5.uy" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 
 http://191.97.49.82:8001/play/a002/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN6.uy" tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6.png" group-title="Deportes",ESPN 6  
-http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8](http://181.224.255.210:8001/play/a0eq/index.m3u8
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+http://181.224.255.210:8001/play/a0eq/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN7.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",ESPN 7 
 http://181.78.12.119:16123/play/ch20/index.m3u8
@@ -278,6 +287,7 @@ http://latinostream.xyz/live/L20260704/L20260704/769684.ts
 http://go.iptvhn.net:25461/live/5794/57942022/1349.ts
 
 #EXTINF:-1 tvg-id="History2.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/01-History2.png?raw=true" group-title="Documentales",History 2 
+http://138.59.227.20:8000/play/a06n/index.m3u8?hls
 http://latinostream.xyz/live/L20260704/L20260704/769685.ts
 
  
